@@ -11,8 +11,8 @@
   - [Lotion Plus (Notion-like Application with Backend using Terraform and AWS)](https://github.com/ucalgary-ensf381/assignment-07-lotion-plus-andrew-and-joseph)
   - [The Last Show - Final Project (Full Stack Application with React and AWS)](https://github.com/ucalgary-ensf381/the-last-show-joseph-and-andrew)
 - <b>ENSF 300 - Software Engineering Practices for Data Management</b>
-  - [Tokyo 2020 Archery Events Database Updater (Python)](https://github.com/Maan-Khedr-ENSF-300/assignment-5-olympicarchery-application-foo)
-  - [Arts Museum SQL Application - Final Project (Python)](https://github.com/Maan-Khedr-ENSF-300/museum-project-foo)
+  - [Tokyo 2020 Archery Events Database Updater (Python, SQL)](https://github.com/Maan-Khedr-ENSF-300/assignment-5-olympicarchery-application-foo)
+  - [Arts Museum SQL Application - Final Project (Python, SQL)](https://github.com/Maan-Khedr-ENSF-300/museum-project-foo)
 - <b>ENSF 380 - Object-Oriented Principles for Software Development</b>
   - [Schedule Building Program - Final Project (Java)](https://github.com/freshmint7/ENSF380-Final-Project)
 - <b>ENSF 338 - Practical Data Structures and Algorithms</b>
