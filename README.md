@@ -16,7 +16,7 @@
 - <b>ENSF 380 - Object-Oriented Principles for Software Development</b>
   - [Schedule Building Program - Final Project (Java)](https://github.com/freshmint7/ENSF380-Final-Project)
 - <b>ENSF 338 - Practical Data Structures and Algorithms</b>
-  - [Library for Linear Data Structures and Tree Structures - Final Project (Java)](https://github.com/freshmint7/ENSF338-Final-Project)
+  - [Library for Linear Data Structures and Tree Structures - Final Project (Java)](https://github.com/andrew-duong/finalproject338)
 
 <!--
 **andrew-duong/andrew-duong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
