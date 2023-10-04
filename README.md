@@ -7,7 +7,7 @@
   - [Browser Developer Tools](https://github.com/andrew-duong/381assignment3)
   - [CSS Assignment](https://github.com/andrew-duong/381assignmen4)
   - [Wordle (HTML, CSS, and JavaScript)](https://github.com/andrew-duong/381assignment5)
-  - [Lotion (Notion-like Application using HTML, CSS, and React)](https://github.com/andrew-duong/381assignment6)
+  - [Lotion (Notion-like Application using HTML, CSS, and React)](https://github.com/andrew-duong/ensf381assignment6)
   - [Lotion Plus (Notion-like Application with Backend using Terraform and AWS)](https://github.com/andrew-duong/381assignment7)
   - [The Last Show - Final Project (Full Stack Application with React and AWS)](https://github.com/andrew-duong/finalproject381)
 - <b>ENSF 300 - Software Engineering Practices for Data Management</b>
