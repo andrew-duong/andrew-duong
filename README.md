@@ -14,7 +14,7 @@
   - [Tokyo 2020 Archery Events Database Updater (Python, SQL)](https://github.com/andrew-duong/300assignment5)
   - [Arts Museum SQL Application - Final Project (Python, SQL)](https://github.com/andrew-duong/300finalproject)
 - <b>ENSF 380 - Object-Oriented Principles for Software Development</b>
-  - [Schedule Building Program - Final Project (Java)](https://github.com/freshmint7/ENSF380-Final-Project)
+  - [Schedule Building Program - Final Project (Java)](https://github.com/andrew-duong/finalproject380)
 - <b>ENSF 338 - Practical Data Structures and Algorithms</b>
   - [Library for Linear Data Structures and Tree Structures - Final Project (Java)](https://github.com/andrew-duong/finalproject338)
 
