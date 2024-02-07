@@ -17,6 +17,8 @@
   - [Schedule Building Program - Final Project (Java)](https://github.com/andrew-duong/finalproject380)
 - <b>ENSF 338 - Practical Data Structures and Algorithms</b>
   - [Library for Linear Data Structures and Tree Structures - Final Project (Java)](https://github.com/andrew-duong/finalproject338)
+- <b>ENSF 480 - Principles of Software Design</b>
+  - [Airline Booking Web Application - Final Project (Java Spring Boot backend, MySQL database, React Material UI frontend)](https://github.com/ParsaKargari/480-Airline)
 
 <!--
 **andrew-duong/andrew-duong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
